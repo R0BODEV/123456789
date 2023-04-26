@@ -1,0 +1,11 @@
+1. index.html
+<html>
+<head>
+    <title>Notebook Website</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+</head>
+<body>
+    <h1>Welcome to the Notebook Website!</h1>
+    <p>This is a website for sharing your notes with the world.</p>
+</
